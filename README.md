@@ -1,6 +1,5 @@
 # Hi, my name is Renato Chavez Lovon:
-I am a Computer Science junior student at the University of Maryland, currently working at Apple as a technical specialist. <br>I use python, java, C, OCaml, R, and other programming languages for my projects. I enjoy working with data structures and algorithms. <br>Active learner and always looking for opportunities to expand my knowledge.
-
+I am a Computer Science senior student at the University of Maryland graduating in May 2026. I completed a career experience with Apple in 2025 where I had the chance to work with the Safari/WebKit Triage Engineering team where I was able to contribute with automation projects that improved efficiency. <br>I use Python, JavScript, C, Swift, R, and other programming languages for my projects. I enjoy working in full stack development as well as data analysis. <br>I love to gain knowledge and look for opportunities to learn new skills. A
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/renatochavezlovon) 
